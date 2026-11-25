@@ -21,7 +21,6 @@ Naming-only intercession across celestial claims and related systems. The Divine
 
 # Instrumental
 ## Published
-Published
-GitHub: https://github.com/KJC-DNN/Album128_Instrumentals_The_Water_of_Life/releases/tag/128.0.0
-Archive: album-128-instrumentals-the-water-of-life-cover
-Zenodo: https://doi.org/10.5281/zenodo.24529337
+1. GitHub: https://github.com/KJC-DNN/Album128_Instrumentals_The_Water_of_Life/releases/tag/128.0.0
+2. Archive: album-128-instrumentals-the-water-of-life-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24529337
