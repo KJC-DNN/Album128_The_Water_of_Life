@@ -1,6 +1,7 @@
 # Album 128 — The Water of Life
 
 The Water of Life - ஜீவ தண்ணீர்
+
 Lamb’s Light and Eternal Claims — Album 128
 
 Naming-only intercession across celestial claims and related systems. The Divine Tether, Water of Life, Crown of Life, and Eternal Life. All named entities and systems bound and banished. The Lamb’s light remains. Tamil and English. Sense kept.
